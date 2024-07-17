@@ -24,7 +24,7 @@
   
   <div>
   <h3 align="center">Contatos!</h3>
- <a href="https://www.linkedin.com/in/matheus-manoel-380590221/" target="_blank">
+ <a href="https://www.linkedin.com/in/matheus-manoel-/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
 </a>
   
