@@ -3,7 +3,7 @@
 # 👋 Olá, eu sou o Matheus Manoel
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend;Apaixonado+por+Cloud+e+Containers;Sempre+aprendendo+novas+tecnologias!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend;Sempre+aprendendo+novas+tecnologias!" />
 </div>
 
 🎯 **Desenvolvedor Backend** em formação  
@@ -14,22 +14,24 @@
 
 ## 💻 Tecnologias & Ferramentas
 
-### **Backend & Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### **Linguagens Principais**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### **Linguagens Secundárias**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **DevOps & Cloud**
+### **DevOps & Cloud (experiência)**
+> Tenho experiência prática nessas ferramentas, utilizadas em projetos e estudo.
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### **Bancos de Dados**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,7 +43,7 @@
 
 ## 🛠️ Experiência Profissional
 
-- **Desenvolvedor Back-End** – Aura Co. *(Mar/2025 - Atual)*  
+- **Desenvolvedor Back-End** – Aura Co. *(Mar/2025 - Ago/2025)*  
 - **Residente Desenvolvedor** – Tpf Engenharia *(Mar/2025 - Jun/2025)*  
 - **Instrutor de Robótica e Programação** – Código Kid Aldeia *(Ago/2024 - Ago/2025)*
 
@@ -49,8 +51,8 @@
 
 ## 🎓 Formação & Certificações
 
-- **Formação Acelerada em Programação (FAP)** - Softex/PE  
-- **Técnico em Análise e Desenvolvimento de Sistemas** - ETEC Eduardo Campos  
+- **Formação Acelerada em Programação (FAP)** - Softex/PE *(Jul/2024 - Dez/2024)*
+- **Técnico em Análise e Desenvolvimento de Sistemas** - ETEC Eduardo Campos  *(Jan/2021 - Jul/2022)*
 - **Tecnólogo em ADS** - UNINASSAU *(em andamento)*  
 
 ---
@@ -66,7 +68,6 @@
 
 ## 🚀 Projetos em Destaque
 
-<!-- Adicionar meus projetos com links para GitHub -->
 > Em construção 🔨  
 
 ---
@@ -79,7 +80,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.manoel407@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matheus4077)
 [![Dio](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/matheus_manoel407)
-
 </div>
 
 ---
